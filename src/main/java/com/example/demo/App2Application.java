@@ -11,7 +11,7 @@ public class App2Application {
 
 	@GetMapping("/")
 	public String main() {
-		return "gradle";
+		return "app2";
 	}
 	
 	public static void main(String[] args) {
